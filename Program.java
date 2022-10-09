@@ -6,7 +6,6 @@ import java.math.BigDecimal;
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Stack;
-//
 public class Program {
     public static boolean isNumber(char c)
     {
